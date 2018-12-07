@@ -12,6 +12,7 @@ We constructed SST graphs to build a graphical relationship of tweet topics. The
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32311654/49634109-9853f700-f9b0-11e8-8d92-fc1d63750f5f.png">
+  <img src="https://user-images.githubusercontent.com/32311654/49634182-cfc2a380-f9b0-11e8-9df8-ab1f5da25c11.png">
 </p>
 
 ## Results
